@@ -1,0 +1,6 @@
+{
+  "name": "College Symposium",
+  "description": "An interactive, high-fidelity college symposium and event management portal with event registrations, ticketing, and an advanced admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
